@@ -5,6 +5,6 @@
 	<title>Home Page</title>
 </head>
 <body>
-<h1>Hello World from Private Page !!!</h1>
+<h1>Hello World from Public Page !!!</h1>
 </body>
 </html>
