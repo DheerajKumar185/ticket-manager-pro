@@ -1,4 +1,4 @@
-package com.tech.doks;
+/*package com.tech.doks;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
@@ -9,3 +9,4 @@ public class MyEncoder {
 
 	}
 }
+*/

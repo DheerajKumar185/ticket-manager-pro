@@ -23,8 +23,9 @@
 	
 	<context:component-scan base-package="com.tech.doks" />
 	
-	<beans:bean id="encoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder">
+	<!-- It'll work with spring-security-4.0.xsd -->
+	<!-- <beans:bean id="encoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder">
 		<beans:constructor-arg value="12" />
-	</beans:bean>
+	</beans:bean> -->
 	
 </beans:beans>

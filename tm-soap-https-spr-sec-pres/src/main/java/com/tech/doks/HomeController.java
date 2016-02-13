@@ -11,13 +11,5 @@ public class HomeController {
 	public String home() {
 		
 		return "home";
-	}
-	
-	@RequestMapping(value = "/admin/privatePage", method = RequestMethod.GET)
-	public String privatePage() {
-		
-		
-		return "privatePage";
-	}
-	
+	}	
 }
